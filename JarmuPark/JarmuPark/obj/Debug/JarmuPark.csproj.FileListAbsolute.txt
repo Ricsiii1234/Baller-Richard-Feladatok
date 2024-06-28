@@ -1,0 +1,7 @@
+D:\Fogalmam sincs\JarmuPark\JarmuPark\bin\Debug\JarmuPark.exe.config
+D:\Fogalmam sincs\JarmuPark\JarmuPark\bin\Debug\JarmuPark.exe
+D:\Fogalmam sincs\JarmuPark\JarmuPark\bin\Debug\JarmuPark.pdb
+D:\Fogalmam sincs\JarmuPark\JarmuPark\obj\Debug\JarmuPark.csproj.AssemblyReference.cache
+D:\Fogalmam sincs\JarmuPark\JarmuPark\obj\Debug\JarmuPark.csproj.CoreCompileInputs.cache
+D:\Fogalmam sincs\JarmuPark\JarmuPark\obj\Debug\JarmuPark.exe
+D:\Fogalmam sincs\JarmuPark\JarmuPark\obj\Debug\JarmuPark.pdb

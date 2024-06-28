@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fogalmam sincs\\JarmuPark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00BBFCA-53AB-4748-A156-28C008AF9BFF}|JarmuPark\\JarmuPark.csproj|d:\\fogalmam sincs\\jarmupark\\jarmupark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00BBFCA-53AB-4748-A156-28C008AF9BFF}|JarmuPark\\JarmuPark.csproj|solutionrelative:jarmupark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\JarmuPark\\JarmuPark\\Program.cs",
+              "RelativeDocumentMoniker": "JarmuPark\\Program.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\JarmuPark\\JarmuPark\\Program.cs",
+              "RelativeToolTip": "JarmuPark\\Program.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAowFIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:52:29.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

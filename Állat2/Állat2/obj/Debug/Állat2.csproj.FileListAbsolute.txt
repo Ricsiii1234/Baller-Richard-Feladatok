@@ -1,0 +1,2 @@
+D:\Fogalmam sincs\Állat2\Állat2\obj\Debug\Állat2.csproj.AssemblyReference.cache
+D:\Fogalmam sincs\Állat2\Állat2\obj\Debug\Állat2.csproj.CoreCompileInputs.cache
