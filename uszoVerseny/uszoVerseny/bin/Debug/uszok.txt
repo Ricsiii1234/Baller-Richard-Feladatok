@@ -1,0 +1,11 @@
+001; Jakabos Zsuzsanna;1989.04.03;Magyarország;2:05.18
+002; Kovács Péter; 1991.06.15; Magyarország; 2:03.45
+003; Szabó Anna; 1993.11.22; Magyarország; 2:04.67
+004; Tóth Bence; 1990.02.10; Magyarország; 2:06.89
+005; Nagy László; 1988.09.30; Magyarország; 2:02.34
+006; Farkas Eszter; 1992.07.08; Magyarország; 2:05.90
+007; Varga Tamás; 1987.01.19; Magyarország; 2:04.12
+008; Mészáros Júlia; 1994.03.27; Magyarország; 2:03.78
+009; Horváth András; 1986.12.05; Magyarország; 2:06.23
+010; Kiss Dóra; 1995.05.14; Magyarország; 2:04.55
+011; Simon Gergely; 1990.08.21; Magyarország; 2:05.47

@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.Form1.resources
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.Properties.Resources.resources
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.csproj.GenerateResource.cache
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\bin\Debug\jatekadatumokkal.exe.config
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\bin\Debug\jatekadatumokkal.exe
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\bin\Debug\jatekadatumokkal.pdb
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.exe
+C:\Users\user\source\repos\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.pdb
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\bin\Debug\jatekadatumokkal.exe.config
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\bin\Debug\jatekadatumokkal.exe
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\bin\Debug\jatekadatumokkal.pdb
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.csproj.AssemblyReference.cache
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.Form1.resources
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.Properties.Resources.resources
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.csproj.GenerateResource.cache
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.csproj.CoreCompileInputs.cache
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.exe
+D:\Fogalmam sincs\jatekadatumokkal\jatekadatumokkal\jatekadatumokkal\obj\Debug\jatekadatumokkal.pdb

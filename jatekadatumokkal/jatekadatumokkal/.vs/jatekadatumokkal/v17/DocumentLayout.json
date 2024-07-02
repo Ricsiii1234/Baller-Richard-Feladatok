@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|d:\\fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|solutionrelative:jatekadatumokkal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|d:\\fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|solutionrelative:jatekadatumokkal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|solutionrelative:jatekadatumokkal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|d:\\fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D97312F-CDDD-47B3-AB45-1DFEF1C0C3EA}|jatekadatumokkal\\jatekadatumokkal.csproj|solutionrelative:jatekadatumokkal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Form1.cs",
+              "RelativeDocumentMoniker": "jatekadatumokkal\\Form1.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Form1.cs",
+              "RelativeToolTip": "jatekadatumokkal\\Form1.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAEwKcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:44:55.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "jatekadatumokkal\\Form1.Designer.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Form1.Designer.cs",
+              "RelativeToolTip": "jatekadatumokkal\\Form1.Designer.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAawOQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:15:58.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Program.cs",
+              "RelativeDocumentMoniker": "jatekadatumokkal\\Program.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Program.cs",
+              "RelativeToolTip": "jatekadatumokkal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:15:35.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Form1.cs",
+              "RelativeDocumentMoniker": "jatekadatumokkal\\Form1.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\jatekadatumokkal\\jatekadatumokkal\\jatekadatumokkal\\Form1.cs [Design]",
+              "RelativeToolTip": "jatekadatumokkal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:34:20.981Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

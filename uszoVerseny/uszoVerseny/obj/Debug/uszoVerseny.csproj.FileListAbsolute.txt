@@ -1,0 +1,10 @@
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\bin\Debug\uszoVerseny.exe.config
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\bin\Debug\uszoVerseny.exe
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\bin\Debug\uszoVerseny.pdb
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.csproj.AssemblyReference.cache
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.Form1.resources
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.Properties.Resources.resources
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.csproj.GenerateResource.cache
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.csproj.CoreCompileInputs.cache
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.exe
+D:\Fogalmam sincs\uszoVerseny\uszoVerseny\obj\Debug\uszoVerseny.pdb

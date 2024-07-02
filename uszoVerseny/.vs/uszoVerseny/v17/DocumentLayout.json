@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fogalmam sincs\\uszoVerseny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|d:\\fogalmam sincs\\uszoverseny\\uszoverseny\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|solutionrelative:uszoverseny\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|d:\\fogalmam sincs\\uszoverseny\\uszoverseny\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|solutionrelative:uszoverseny\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|d:\\fogalmam sincs\\uszoverseny\\uszoverseny\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|solutionrelative:uszoverseny\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|d:\\fogalmam sincs\\uszoverseny\\uszoverseny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E301FF2E-E264-4578-B66D-029D205F5C1F}|uszoVerseny\\uszoVerseny.csproj|solutionrelative:uszoverseny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Form1.cs",
+              "RelativeDocumentMoniker": "uszoVerseny\\Form1.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Form1.cs",
+              "RelativeToolTip": "uszoVerseny\\Form1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAMwEgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:51:27.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "uszoVerseny\\Form1.Designer.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Form1.Designer.cs",
+              "RelativeToolTip": "uszoVerseny\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:50:36.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Program.cs",
+              "RelativeDocumentMoniker": "uszoVerseny\\Program.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Program.cs",
+              "RelativeToolTip": "uszoVerseny\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:50:40.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Form1.cs",
+              "RelativeDocumentMoniker": "uszoVerseny\\Form1.cs",
+              "ToolTip": "D:\\Fogalmam sincs\\uszoVerseny\\uszoVerseny\\Form1.cs [Design]",
+              "RelativeToolTip": "uszoVerseny\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:40:33.206Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
