@@ -1,0 +1,10 @@
+D:\feladatok\pizza\pizza\obj\Debug\pizza.csproj.AssemblyReference.cache
+D:\feladatok\pizza\pizza\obj\Debug\pizza.PizzaForm.resources
+D:\feladatok\pizza\pizza\obj\Debug\pizza.Properties.Resources.resources
+D:\feladatok\pizza\pizza\obj\Debug\pizza.csproj.GenerateResource.cache
+D:\feladatok\pizza\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
+D:\feladatok\pizza\pizza\bin\Debug\pizza.exe.config
+D:\feladatok\pizza\pizza\bin\Debug\pizza.exe
+D:\feladatok\pizza\pizza\bin\Debug\pizza.pdb
+D:\feladatok\pizza\pizza\obj\Debug\pizza.exe
+D:\feladatok\pizza\pizza\obj\Debug\pizza.pdb
