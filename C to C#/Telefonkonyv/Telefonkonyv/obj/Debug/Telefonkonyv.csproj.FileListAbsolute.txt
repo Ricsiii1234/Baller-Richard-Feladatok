@@ -1,0 +1,7 @@
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\bin\Debug\Telefonkonyv.exe.config
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\bin\Debug\Telefonkonyv.exe
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\bin\Debug\Telefonkonyv.pdb
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.csproj.AssemblyReference.cache
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.csproj.CoreCompileInputs.cache
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.exe
+D:\Fogalmam sincs\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.pdb
